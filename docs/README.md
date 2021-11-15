@@ -110,13 +110,6 @@
 
 - [实用网站与工具](Tool/awesome-sites.md)
 
-## 程序人生
-
-- [请用一句话证明你是程序员](Life/how-to-prove-that-you-are-a-programmer.md)
-- [工作中如何做好技术积累](Life/study-vs-work.md)
-- [程序员的谎言](Life/what-are-the-most-common-lies-told-by-programmers.md)
-- [程序员的酒后真言](Life/drunk-post-of-a-programmer.md)
-
 ## LeetCode
 
 **动态规划:**
